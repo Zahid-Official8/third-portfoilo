@@ -65,5 +65,5 @@ function tinyFriend(name){
     }
     return smallestName;
 }
-var result = tinyFriend(['Abdullah','Sad','Afsar','Zahid','Rafi','Abdur Rahim']);
+var result = tinyFriend(['Abdullah','Sad','Afsar Ahmed','Zahid','Rafi','Abdur Rahim']);
 console.log(result);
