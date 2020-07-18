@@ -12,10 +12,10 @@ console.log(result);
 // 2nd Assignment
 
 function woodCalculator(chair, table, bed){
-    var woodChair = chair * 1;
-    var woodTable = table * 3;
-    var woodBed = bed * 5;
-    var total = woodChair + woodTable + woodBed;
+    var woodOfChair = chair * 1;
+    var woodOfTable = table * 3;
+    var woodOfBed = bed * 5;
+    var total = woodOfChair + woodOfTable + woodOfBed;
     return total;
 }
 var result1 = woodCalculator(1,1,1);
